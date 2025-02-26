@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Estou aprendendo
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javaScript/javaScript-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://logodix.com/logo/374736.png" width="40" height="40"/>
