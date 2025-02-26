@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, my name is João Vitor 👋
 
 <!--
 **Joao8430/Joao8430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
