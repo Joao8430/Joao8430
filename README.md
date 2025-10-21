@@ -1,7 +1,7 @@
 ## Olá, Me chamo João Vitor👋
 
 - 💻Hoje trabalho como Full Stack(Back-and e front-and)
-- 🚀 Estou estudando: PHP|JAVA|JAVASCRIPT(REACT)|TYPESCRIPT|HTML5|CSS|PYTHON
+- 🚀 Estou estudando:|JAVA|JAVASCRIPT(REACT)|TYPESCRIPT|HTML5|CSS|PYTHON|PHP(JÁ TIVE CONTATO)
 - 👯 Contate-me no email: joaovitorgonzaga14@gmail.com
 - 📱 Entre em Contato: 61984306624
 
